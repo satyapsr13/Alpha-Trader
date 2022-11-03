@@ -1,8 +1,6 @@
 import React from "react";
 function Navbar() {
-  let links = {
-    
-  };
+  let links = {};
   return (
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
