@@ -1,7 +1,7 @@
 import React from "react";
 function Navbar() {
   let links = {
-    
+
   };
   return (
     <>
@@ -17,8 +17,7 @@ function Navbar() {
           aria-controls="navbarNav"
           aria-expanded="false"
           aria-label="Toggle navigation"
-        >
-          <span className="navbar-toggler-icon" />
+        > 
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
